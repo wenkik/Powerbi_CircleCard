@@ -1,0 +1,17 @@
+{
+		"version": "1.0.0.0",
+		"author": {"name":"Haixia Wen","email":"v-wenhaixia@microsoft.com"},
+		"resources": [
+			{
+				"resourceId": "rId0",
+				"sourceType": 5,
+				"file": "resources/circleCardC099270D871C4AC982D3CFFE703839CE.pbiviz.json"
+			}
+		],
+		"visual": {"name":"circleCard","displayName":"Powerbi_CircleCard","guid":"circleCardC099270D871C4AC982D3CFFE703839CE","visualClassName":"Visual","version":"1.0.0.0","description":"The visual object is a circular card in which the data can be displayed according to changes in the data","supportUrl":"https://msit.powerbi.com/groups/me/reports/42c88523-c5dc-4712-a41e-c642de2eb78c/ReportSection?experience=power-bi","gitHubUrl":"https://github.com/wenkik/Powerbi_CircleCard"},
+		"metadata": {
+			"pbivizjson": {
+				"resourceId": "rId0"
+			}
+		}
+	}

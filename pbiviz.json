@@ -1,18 +1,18 @@
 {
     "visual": {
         "name": "circleCard",
-        "displayName": "CircleCard",
+        "displayName": "Powerbi_CircleCard",
         "guid": "circleCardC099270D871C4AC982D3CFFE703839CE",
         "visualClassName": "Visual",
         "version": "1.0.0.0",
-        "description": "",
-        "supportUrl": "",
-        "gitHubUrl": ""
+        "description": "The visual object is a round card, the data can be displayed on the round card, and the color style can be changed as needed",
+        "supportUrl": "https://msit.powerbi.com/groups/me/reports/42c88523-c5dc-4712-a41e-c642de2eb78c/ReportSection?experience=power-bi",
+        "gitHubUrl": "https://github.com/wenkik/Powerbi_CircleCard"
     },
     "apiVersion": "5.3.0",
     "author": {
-        "name": "",
-        "email": ""
+        "name": "Haixia Wen",
+        "email": "v-wenhaixia@microsoft.com"
     },
     "assets": {
         "icon": "assets/icon.png"
